@@ -12,7 +12,7 @@
 ## About me
 Hello! My name is Taisiia, i'm 18 years old. I'm studying to be a programmer and I intend to become a real professional! So that's why i'm here.
 
-#### Strengths
+### Strengths
 * Perseverance
 * Openness to everything new
 * Optimism
@@ -22,15 +22,14 @@ Hello! My name is Taisiia, i'm 18 years old. I'm studying to be a programmer and
 * JavaScript (beginner)
 
 ## Code Example
-``` let summation = function (num) {
-  let result = 0;
-  for (i = 1; i <= num; i++) {
-    result += i;
+```javascript
+const func = (num) => {
+  if (num > 0) {
+    return num - 1;
   }
-  
-  return result;
-}
- ```
+  return num + 1;
+};
+```
 
 ## Experience
 
