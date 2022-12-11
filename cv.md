@@ -1,6 +1,6 @@
 # Taisiia Zabirova
 
- ![GitHub Profile Picture](./XR16F8QhE_4.jpg)
+ ![Discord Profile Picture](/XR16F8QhE_4.jpg)
 
 ## My Contacts
 * Phone: +7 (980) 953-66-08
@@ -43,3 +43,6 @@ let summation = function (num) {
 A2
 
 
+
+
+[def]: https://ibb.co/fCtnfv2
