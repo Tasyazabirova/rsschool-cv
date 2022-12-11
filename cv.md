@@ -1,6 +1,6 @@
 # Taisiia Zabirova
 
- ![Discord Profile Picture](/XR16F8QhE_4.jpg)
+ ![GitHub Profile Picture](/XR16F8QhE_4.jpg)
 
 ## My Contacts
 * Phone: +7 (980) 953-66-08
