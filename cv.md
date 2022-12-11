@@ -4,6 +4,7 @@
 *E-mail: zabirova0001@mail.ru
 *Telegram: @budapipi
 *GitHub: [Tasyazabirova](https://github.com/tasyazabirova)
+*Discord: balamut#4275
 ##About me
 Hello! My name is Taisiia, i'm 18 years old. I'm studying to be a programmer and I intend to become a real professional! So that's why i'm here.
 ###Strengths
