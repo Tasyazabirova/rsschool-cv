@@ -1,0 +1,160 @@
+.body {
+    font-family: 'Inter', sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+
+
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.nav-list {
+    list-style: none;
+}
+
+.nav-link {
+    padding: 0 30px;
+    line-height: 50px;
+    color: #000000;
+    font-weight: bold;
+}
+
+.section-item a {
+    color: #000000;
+    text-decoration: none;
+    transition: color 0.5s;
+}
+
+.section-item a:hover {
+    color:
+        #000000;
+}
+
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.section {
+    width: 50%;
+}
+
+@media (max-width: 768px) {
+    .section {
+        width: 100%;
+    }
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #000000;
+
+}
+
+.section-title {
+    text-decoration: underline;
+    font-size: 25px;
+    font-weight: 800;
+    letter-spacing: 1px;
+    color: #000000;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.nav-link {
+    transition: .140s;
+}
+
+.section-item {
+    position: relative;
+    padding-left: 30px;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+
+
+.section-huge-title {
+    position: absolute;
+    margin-bottom: 110px;
+    margin-left: 610px;
+    font-size: 70px;
+    text-decoration: underline;
+}
+
+.year {
+    text-align: center;
+
+}
+
+.git {
+    position: relative;
+    float: right;
+    padding-top: 30px;
+
+}
+
+.picture {
+    position: absolute;
+}
+
+body {
+    background: linear-gradient(#e88296, #9eaefe) fixed;
+}
+
+.year {
+    position: absolute;
+}
+
+@keyframes link {
+    0% {
+        color: rgb(0, 0, 0);
+    }
+
+    25% {
+        color: rgb(149, 149, 149);
+    }
+
+    50% {
+        color: rgb(255, 255, 255);
+    }
+
+    75% {
+        color: rgb(149, 149, 149);
+    }
+
+    100% {
+        color: rgb(0, 0, 0);
+    }
+}
+
+
+
+.link {
+    animation: link 8s;
+}
